@@ -8,8 +8,11 @@
 
 <p align=center>
   
-  ### 🚀 Tech Stack
-  
+### 🚀 Tech Stack
+
+</p>
+
+<p align=center>
 <img src="https://img.shields.io/badge/JavaScript-FFB13B?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-409E3C?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;

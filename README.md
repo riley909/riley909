@@ -1,6 +1,23 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=190&text=Riley.K&animation=twinkling&fontAlign=85&fontAlignY=40&fontSize=65)
+
 #### Hi there 👋  &nbsp; I'm Riley!
 
+<p align=center>
+<img src="https://img.shields.io/badge/JavaScript-FFB13B?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-409E3C?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>&nbsp;
+   <img src="https://img.shields.io/badge/MySQL-4579A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;
+  </p>
+
+
+<div align=center>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riley909&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <div align=center>
   

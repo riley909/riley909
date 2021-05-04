@@ -2,9 +2,10 @@
 
 <div align=center>
   
-### Hi there 👋  &nbsp; I'm Riley!
+#### Hi there 👋  &nbsp; I'm Riley!
 
 </div>
+<br>
 
 <div align=center>
   
@@ -21,7 +22,7 @@
    <img src="https://img.shields.io/badge/MySQL-4579A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;
   </p>
-
+<br>
 
 <div align=center>
 

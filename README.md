@@ -6,11 +6,11 @@
 
 </div>
 
-<p align=center>
+<div align=center>
   
 ### 🚀 Tech Stack
 
-</p>
+</div>
 
 <p align=center>
 <img src="https://img.shields.io/badge/JavaScript-FFB13B?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;

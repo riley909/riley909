@@ -27,7 +27,7 @@
 
 <div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riley909&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riley909&count_private=true&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

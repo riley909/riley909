@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=190&text=Riley.K&animation=twinkling&fontAlign=85&fontAlignY=40&fontSize=65)
 
+<p align=center>
+  
 #### Hi there 👋  &nbsp; I'm Riley!
+
+</p>
 
 <p align=center>
 <img src="https://img.shields.io/badge/JavaScript-FFB13B?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;

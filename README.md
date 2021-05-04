@@ -26,6 +26,12 @@
 <br>
 
 <div align=center>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riley909&layout=compact)](https://github.com/riley909/github-readme-stats)
+  
+  </div>
+
+<div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riley909&count_private=true&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 

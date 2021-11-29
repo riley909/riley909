@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-409E3C?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>&nbsp;
-   <img src="https://img.shields.io/badge/MySQL-4579A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
-   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;
-  </p>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" height=21/>
+  <img src="https://img.shields.io/badge/MySQL-4579A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;
+</p>
 <br>
 <br>
 

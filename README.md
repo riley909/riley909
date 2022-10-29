@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-409E3C?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" height=21/>
-  <img src="https://img.shields.io/badge/MySQL-4579A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height=21/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=21/>&nbsp;
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=21/>&nbsp;
 </p>
 <br>
 <br>
